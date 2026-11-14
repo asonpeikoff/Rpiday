@@ -1,6 +1,6 @@
 ## File: fractal.R
 ## Desc: Julia set fractal inerpolation based on Pi
-## Copyright: (c) 2015, Jason D. Miller, http://hack-r.com
+## Copyright: (c) 2015, Ason Peikoff, http://hack-r.com
 
 a <-  pi # Complex parametets 
 b <- -pi # connected to coordinate of the Mandelbrot set in a complex plane.

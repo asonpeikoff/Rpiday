@@ -1,6 +1,6 @@
 ## File: Rpiday.R
 ## Desc: Just a little Pi Day fun
-## Copyright: (c) 2015, Jason D. Miller, http://hack-r.com
+## Copyright: (c) 2015, Ason Peikoff, http://hack-r.com
 
 # Load Libraries ----------------------------------------------------------
 source("functions.R")
